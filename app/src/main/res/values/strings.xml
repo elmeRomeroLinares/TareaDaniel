@@ -1,3 +1,29 @@
 <resources>
-    <string name="app_name">Control Locales</string>
+    <string name="app_name">Estructura Comercial</string>
+
+    <string-array name="tipos_centros_comerciales_array">
+        <item>Centros Comerciales:</item>
+        <item>Centros Comerciales Grandes</item>
+        <item>Centros Comerciales Pequeños</item>
+    </string-array>
+    <string-array name="tipos_almacenes_array">
+        <item>Almacenes:</item>
+        <item>Múltiples Sucursales</item>
+        <item>Grandes</item>
+        <item>Populares</item>
+    </string-array>
+    <string-array name="multiplazaArray">
+        <item>Nombre: Multiplaza Panamericana</item>
+        <item>Ubicación: Antiguo Cuscatlán, San Salvador</item>
+        <item>Dirección: Carretera Panamericana 503, San Salvador</item>
+        <item>Tiendas y Servicios: 250</item>
+        <item>Centro Comercial Integrado: Están presentes medianas superficies especializadas y grandes superficies juntos con pequeños comercios, además de ofrecer actividades lúdicas y de ocio.</item>
+    </string-array>
+    <string-array name="la_skinaArray">
+        <item>Nombre: La Skina</item>
+        <item>Ubicación: Santa Tecla, La Libertad.</item>
+        <item>Dirección: 16 Avenida Norte, Finca Santa Rosa.</item>
+        <item>Tiendas y Servicios: 26</item>
+        <item>Centro Comercial Especializado: Están presentes aquellos comercios donde se ofrecer cierta actividad específica. En el centro comercial La Skina predominan negocios de restaurantes.</item>
+    </string-array>
 </resources>
