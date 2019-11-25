@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         val ITEM_SELECTED = "ItemSelected"
+        val versionControlVariableTry = "VersionTry"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
